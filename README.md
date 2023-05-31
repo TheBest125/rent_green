@@ -1,12 +1,11 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
+Made by KevinBruyne
+
 # Rent-A-Green
 
 > This application allow users to book an appointment to test an electric car. The homepage is a showcase of the cars. You can also add new cars, view the details of a car, and book an appointment for renting a car, among other features.
 
-This front-end application is complemented by the [back-end API](https://github.com/acolombo1/final-capstone-back-end)
-
-![image](https://user-images.githubusercontent.com/100373071/193011362-40c6d5a0-e798-4590-9b30-ca780f309502.png)
 
 ## Built With
 
@@ -23,7 +22,6 @@ This front-end application is complemented by the [back-end API](https://github.
 [Kanban board link](https://github.com/users/alexpuente0/projects/4).
 
 #### Initial Kanban board screenshot:
-![image](https://user-images.githubusercontent.com/99830261/190246424-1644dd8b-a0c9-45d5-b794-06fa6666a8e4.png)
 
 #### Final number of team members:
 
